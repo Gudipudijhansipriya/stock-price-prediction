@@ -1,4 +1,4 @@
 streamlit
-yfinance==0.1.68
+yfinance
 prophet
 plotly
